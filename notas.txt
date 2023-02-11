@@ -1,0 +1,3 @@
+paquete hbs, necesita que la carpeta se llame views
+
+se mantuvo como statico a traves de middleware las imagenees y los assets en la carpeta public para su ejecucion
